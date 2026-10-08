@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Luxury Cars | Premium Vehicles</title>
+    <title>Luxury Cars for xubby | Premium Vehicles</title>
 
     <style>
 
@@ -598,7 +598,7 @@
 
         <a
             class="whatsapp"
-            href="https://wa.me/2348000000000?text=Hello%20I%20am%20interested%20in%20one%20of%20your%20cars."
+            href="https://wa.me/2348133543678?text=Hello%20I%20am%20interested%20in%20one%20of%20your%20cars."
             target="_blank"
         >
             💬 Chat on WhatsApp
